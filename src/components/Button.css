@@ -1,0 +1,28 @@
+.buttonMap{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  min-width: 350px;
+  width: 30%;
+}
+
+
+.calculator-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.button {
+  width: 80px; /* Adjust width as needed */
+  height: 80px; /* Adjust height as needed */
+  margin: 5px; /* Adjust margin as needed */
+  font-size: 1.5em; /* Adjust font size as needed */
+  background-color: #f0f0f0; /* Button background color */
+  border: 1px solid rgb(85, 85, 85); /* Button border */
+  border-radius: 5px; /* Button border radius */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

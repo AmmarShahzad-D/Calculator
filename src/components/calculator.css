@@ -1,0 +1,20 @@
+.screen {
+  min-width: 350px;
+  width: 27%; /* Display area width */
+  height: 80px; /* Display area height */
+  margin-bottom: 20px; /* Adjust margin as needed */
+  font-size: 1.5em; /* Adjust font size as needed */
+  background-color: #ffffff; /* Display area background color */
+  border: 1px solid black;
+  border-radius: 5px; /* Display area border radius */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.border{
+  border: 2px solid black !important;
+  width: 378px;
+  padding: 10px;
+  border-radius: 10px;
+}
